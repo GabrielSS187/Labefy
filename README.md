@@ -1,5 +1,5 @@
 <h1 align="center">
-    <p>Labefy playlists</p>
+    <p>Labefy Playlists</p>
     <img src="public/favicon.ico" />
     <p>Adicione e gerencie suas playlists de músicas no Labefy<p>
 </h1>
