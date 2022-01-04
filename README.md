@@ -15,8 +15,10 @@ Aqui</a></h1>
 
 <h2 align="center">Video demonstrativo</h2>
 <p align="center">Qualidade do video ruim por que tive que transforma para GIF</p>
-
-![Alt Text](https://media.giphy.com/media/h6GCcibr0vL0bqNw9H/giphy.gif)
+   
+<p align="center">
+  <img src="https://media.giphy.com/media/h6GCcibr0vL0bqNw9H/giphy.gif" width="550 height="450"/>
+</p>
 
 ## 🔨 Tecnológias usadas
 
