@@ -5,7 +5,7 @@
 </h1>
 
 <h1 align="center">Site do Projeto
-<a href="labefy-playlist.surge.sh ">
+<a href="http://labefy-playlist.surge.sh ">
 Aqui</a></h1>
 
 
