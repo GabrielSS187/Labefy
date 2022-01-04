@@ -17,7 +17,7 @@ Aqui</a></h1>
 <p align="center">Qualidade do video ruim por que tive que transforma para GIF</p>
    
 <p align="center">
-  <img src="https://media.giphy.com/media/h6GCcibr0vL0bqNw9H/giphy.gif" width="550 height="450"/>
+  <img src="https://media.giphy.com/media/h6GCcibr0vL0bqNw9H/giphy.gif" width="600"/>
 </p>
 
 ## 🔨 Tecnológias usadas
